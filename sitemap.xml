@@ -8,5 +8,9 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 https://shankarm3.github.io/landcalc/
 </loc>
 </url>
-
+<url>
+<loc>
+https://shankarm3.github.io/landcalc/kanal-to-sqft.html
+</loc>
+</url>
 </urlset>
