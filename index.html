@@ -65,7 +65,16 @@
                <option value="acre">Acre</option>
             </select>
 
-            <button onclick="convertArea()">Convert Area</button>
+            <button
+               onclick="
+                  convertArea(
+                     document.getElementById('fromUnit').value,
+                     document.getElementById('toUnit').value,
+                  )
+               "
+            >
+               Convert Area
+            </button>
 
             <div class="result-box">
                <h3>Converted Value</h3>
